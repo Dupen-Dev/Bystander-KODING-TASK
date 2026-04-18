@@ -1,4 +1,3 @@
-# Bystander-KODING-TASK
 <!DOCTYPE html>
 <html lang="id">
 <head>
