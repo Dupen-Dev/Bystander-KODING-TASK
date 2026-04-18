@@ -160,9 +160,6 @@
             <strong>Pengaruh norma sosial</strong><br />
             Jika di lingkungan sekitar terbiasa dengan sikap *jangan ikut campur urusan orang*, seseorang akan merasa sungkan atau takut dicap aneh jika peduli. Lingkungan yang kurang mencontohkan kepedulian membuat seseorang semakin enggan bertindak, walaupun hatinya ingin menolong.
         </li>
-    <div class="img-container" title="Cartoon: I thought you'd do it">
-        <img src="https://i.postimg.cc/WzJHnVMP/i-thought-you-d-do-it.png" alt="Cartoon about bystander effect" />
-    </div>
     </ol>
 
     <h2>Dampak Bystander Effect</h2>
@@ -172,9 +169,6 @@
         <li>Korban merasa sendirian, tidak didukung, dan bisa mengalami stress, kecemasan, depresi, atau mati rasa secara emosional (emotional numbness).</li>
         <li>Masyarakat menjadi lebih kurang peduli, sehingga kasus kekerasan atau pelecehan sering dibiarkan tanpa penyelesaian.</li>
         <li>Lingkungan menjadi kurang aman karena orang-orang cenderung pasif dan tidak saling menolong ketika terjadi sesuatu.</li>
-    <div class="img-container" title="Illustration of Bystander Effect">
-        <img src="https://i.postimg.cc/Wz8pYMSN/bystander-effect-illustration.png" alt="Illustration of Bystander Effect" />
-    </div>
     </ol>
 
     <h2><em>Cara Mengatasi Bystander Effect pada Diri</em></h2>
@@ -200,10 +194,6 @@
         Percayalah, sekecil apapun perbuatan kita bagi orang lain bisa jadi berdampak sangat besar bagi mereka. Dan dalam kasus pembully-an ini bukan lagi tentang rasa saling memahami, namun tentang cara memanusiakan manusia. Maka dari itu jangan ragu dan takut untuk mulai dari tindakan kecil, karena hal kecil itu akan berubah menjadi lingkungan yang lebih aman dan nyaman bagi semua orang.
     </p>
 
-    <!-- Gambar-gambar pendukung -->
-    <div class="img-container" title="Be An Upstander, Not A Bystander">
-        <img src="https://i.postimg.cc/mrPqZxgD/be-an-upstander-not-a-bystander.png" alt="Be An Upstander, Not A Bystander" />
-    </div>
 
 </main>
 
