@@ -183,6 +183,21 @@
         <li><strong>Delegate</strong> � Meminta bantuan kepada pihak ketiga.</li>
     </ol>
 
+     <h2><em>Cara Mengatasi Bystander Effect pada Orang Lain</em></h2>
+    <p>
+        Berikut cara-cara praktis mengatasi bystander effect:
+    </p>   
+    <ol>
+    1. Tunjuk Individu Secara Spesifik (Jika Anda Korban): Jangan berteriak minta tolong secara umum. Tunjuk satu orang, lakukan kontak mata, dan beri perintah langsung seperti, "Mas yang pakai baju merah, tolong panggil         ambulans!".Alihkan Perhatian 
+
+    2. (Distract): Jika intervensi langsung terlalu berisiko, buat pengalihan. Misalnya, dekati korban dan tanyakan arah, atau pura-pura mengenal korban untuk menghentikan pelaku.Delegasikan Bantuan: Mintalah bantuan             orang lain yang memiliki otoritas, seperti petugas keamanan, staf toko, atau pihak berwenang di lokasi.
+
+    3. Tunda dan Periksa (Delay): Jika tidak bisa menolong saat kejadian, tanyakan kondisi korban sesudahnya, seperti, "Apakah Anda baik-baik saja? Saya lihat kejadian tadi," untuk memberikan dukungan sosial.
+
+    4. Bangun Empati (Perspective Taking): Dorong orang sekitar untuk membayangkan jika mereka berada di posisi korban, yang dapat meningkatkan motivasi untuk menolong.Edukasi tentang Bystander Effect: Menjelaskan bahwa          semakin banyak orang, semakin kecil kemungkinan bantuan datang, dapat membuat orang lebih sadar dan cenderung bertindak.
+    </ol>
+
+    
     <h2>Kesimpulan</h2>
     <p>
         Bystander effect memang bisa terjadi tanpa disadari oleh siapapun. Namun, tidak dengan diri sendiri. Bagi seseorang yang setidaknya pernah mengalami hal kurang menyenangkan pasti merasakan juga apa dirasakan oleh korban pembully-an.
